@@ -14,10 +14,10 @@ Pillow, fpdf and qrcode modules for Python 3
 
 > usage: ./qr_batcher.py
 
->       --prefix &lt;prefix&gt;
+> --prefix &lt;prefix&gt;
 
->       --start &lt;start#&gt;
+> --start &lt;start#&gt;
 
->       --increment &lt;increment by #&gt;
+> --increment &lt;increment by #&gt;
 
->       --end &lt;terminate at #&gt;
+> --end &lt;terminate at #&gt;
